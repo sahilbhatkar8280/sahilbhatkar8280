@@ -174,7 +174,7 @@ public class SahilBhatkar {
 [![Email](https://img.shields.io/badge/Email-sahilbhatkar8280%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilbhatkar8280@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sahilbhatkar8280-181717?style=for-the-badge&logo=github)](https://github.com/sahilbhatkar8280)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahil_Bhatkar-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sahilbhatkar)
-[![Phone](https://img.shields.io/badge/Phone-%2B91_9322449949-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919322449949)
+[![Phone](https://img.shields.io/badge/Phone-%2B91_9322449949-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 
 </div>
 
